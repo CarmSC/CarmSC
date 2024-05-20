@@ -2,6 +2,13 @@
 
 **<h1 align="center"> Hi, I’m Carmen Salas </h1>**
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&weight=700&color=7FFFD4&background=0D1117&center=true&vCenter=true&width=500&lines=👋+¡Bienvenido+a+mi+perfil+de+Github!;👩🏻‍🦱+Hola,+soy+Carmen+Salas;💻+developer+Java+Back-End;🐍+Aprendiendo+Python)](https://git.io/typing-svg)
+
+
+
+
+
 ###
 
 <div align="center">
