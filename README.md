@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarmSC8&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=CarmSC&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarmSC&theme=tokyonight&hide_border=false" width="45%" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarmSC&theme=tokyonight&layout=compact&hide_border=false" width="45%" alt="top languages" />
 
